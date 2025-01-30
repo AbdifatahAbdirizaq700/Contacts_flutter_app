@@ -11,7 +11,7 @@ step-one => setup xampp(Apache,mysql)servers,run servers :
    
 step-two =>  after backend setup flutter app and then run this commend{ flutter pub get } for dependences ,
              in api_service.dart :![image](https://github.com/user-attachments/assets/23c5d652-1e06-4fed-917e-1af40bf90b29)
-             iskahubi inad badashay link backend kuguxiraya ku badalo ip computerkaga =cmd soofuro > kuqor " ipConfig " hadi uu gugu shaqen wayo waxad isticmasha:                         'http://10.0.2.2/contacts_api/api/';
+             iskahubi inad badashay link backend kuguxiraya ku badalo ip computerkaga =cmd soofuro > kuqor " ipConfig " kadib kubadal ip adresskaga hadi uu gugu shaqen wayo waxad isticmasha:                         'http://10.0.2.2/contacts_api/api/';
              the run application,
 
 step-three => make register and login then add contacts and add favorite contacts make (delete,update)contacts,
