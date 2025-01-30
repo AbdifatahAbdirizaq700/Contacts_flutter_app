@@ -1,16 +1,15 @@
 # contacts_app
-
-A new Flutter project.
-
+ application kan waxa lo isticmala in lagu kaydsado contacts aad kacabsanaysid inay kaluman
+ applicationkan waxa lagu dhisay flutter and php+(mysql) for backend and database
+raac tilmahan si applicationku kugu shaqeyo 
 ## Getting Started
+step-one => setup xampp(Apache,mysql)servers,
+            soqad folderka contacts_api oo backend ah kadib dhexdhig C:\xampp\htdocs\contacts_api,
+            tables.txt file kan waxa kujira tabales ee database ,mysql soofuro kadib samayso new database name(contacts_db) kadib qaybta SQL queries tag kudhexsayso tables.                <img width="943" alt="image" src="https://github.com/user-attachments/assets/f2ac8317-7f79-41a8-aa98-8c0e2fd0be1e" />
 
-This project is a starting point for a Flutter application.
+sep-two =>  after backend setup flutter app and then run this commend{ flutter pub get } for dependences the run application,
 
-A few resources to get you started if this is your first Flutter project:
+step-three => make register and login then add contacts and add favorite contacts make (delete,update)contacts,
+logout hadad rabtid
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+            
