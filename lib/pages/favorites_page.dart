@@ -6,6 +6,7 @@ import '../models/contact.dart';
 class FavoritesPage extends StatefulWidget {
   const FavoritesPage({super.key});
 
+  
   @override
   State<FavoritesPage> createState() => _FavoritesPageState();
 }
