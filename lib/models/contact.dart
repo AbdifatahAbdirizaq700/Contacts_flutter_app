@@ -4,6 +4,7 @@ class Contact {
   final String phone;
   final String email; 
   //
+  //
 
   Contact({
     required this.id,
